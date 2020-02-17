@@ -1,0 +1,6 @@
+[submodule "modules/--force"]
+	path = modules/--force
+	url = https://github.com/Lashhev/mono-camera-calibration.git
+[submodule "modules/mono-camera-calibrator"]
+	path = modules/mono-camera-calibrator
+	url = https://github.com/Lashhev/mono-camera-calibration.git
